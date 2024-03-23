@@ -24,6 +24,7 @@ female pins 2.54mm spacing
 male pins   2.54mm spacing
 
 also included is a simplified file for LCD menu for managing basic DMX connection info for projects with no motors. 
+also included is a simplified file for using motors with no LCD
 
-sACN protocol functionality WIP
+sACN, OSC protocol functionality WIP
 makes use of olikraus' u8g2 and MUIU8g2, adafruit NEOPIXEL, Rui Seixas versatile rotary encoder, natcl artnet. 
